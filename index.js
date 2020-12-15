@@ -20,7 +20,6 @@ const bulan = arrayBulan[moment().format('MM') - 1]
 const config = {
     A187: 'Khalif Fitra',
     instagram: 'https://instagram.com/_sadboy.ig',
-    nomer: 'wa.me/6281244355770',
     aktif: 'Jika Di Akhtifkan',
     youtube: 'https://youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg',
     whatsapp: 'https://chat.whatsapp.com/DSSHmG2KjKJLoFp9B9mkVs',
